@@ -1,0 +1,84 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "Nome": "Aspirina",
+      "Preço": "R$ 8,00",
+      "Marca": "Bayer",
+      "Tipo": "Remédio"
+    },
+    {
+      "id": 2,
+      "Nome": "Bepantol Derma",
+      "Preço": "R$ 29,90",
+      "Marca": "Bayer",
+      "Tipo": "Remédio"
+    },
+    {
+      "id": 3,
+      "Nome": "Amoxicilina",
+      "Preço": "R$ 28,29",
+      "Marca": "EMS",
+      "Tipo": "Remédio"
+    },
+    {
+      "id": 4,
+      "Nome": "Fralda M",
+      "Preço": "R$ 35,99",
+      "Marca": "Turma da Mônica",
+      "Tipo": "Fralda Infântil"
+    }
+  ],
+  "funcionario": [
+    {
+      "id": 1,
+      "Nome": "Guilherme Alves",
+      "CPF": "123.456.789-00",
+      "Cargo": "Balconista"
+    },
+    {
+      "id": 2,
+      "Nome": "Lucas Sales",
+      "CPF": "123.456.789-01",
+      "Cargo": "Farmacêutico"
+    },
+    {
+      "id": 3,
+      "Nome": "Viviane Nascimento",
+      "CPF": "123.456.789-02",
+      "Cargo": "Balconista"
+    },
+    {
+      "id": 4,
+      "Nome": "Vitor Costa",
+      "CPF": "123.456.789-03",
+      "Cargo": "Entregador"
+    }
+  ],
+  "cliente": [
+    {
+      "id": 1,
+      "Nome": "Vitoria Silva",
+      "CPF": "123.456.789-00",
+      "Residente(Bairro)": "Jardim América"
+    },
+    {
+      "id": 2,
+      "Nome": "Filipe Tavares",
+      "CPF": "123.456.789-01",
+      "Residente(Bairro)": "Vila da Penha"
+    },
+    {
+      "id": 3,
+      "Nome": "André Antunes",
+      "CPF": "123.456.789-02",
+      "Residente(Bairro)": "Irajá"
+    },
+    {
+      "id": 4,
+      "Nome": "Raissa Mendes",
+      "CPF": "123.456.789-03",
+      "Residente(Bairro)": "Vigário Geral"
+    }
+  ]
+}
